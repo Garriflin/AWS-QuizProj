@@ -29,3 +29,7 @@ body {
     font-family: Yalm;
     font-size: 5rem;
 }
+/* Details */
+#details {
+    margin-bottom: 5rem;
+}
